@@ -1,0 +1,7 @@
+org/example/VendingMachineService.class
+org/example/Main.class
+org/example/VendingMachine.class
+org/example/InvalidInputException.class
+org/example/IdAlreadyExistException.class
+org/example/InvalidBalanceInputException.class
+org/example/Item.class
